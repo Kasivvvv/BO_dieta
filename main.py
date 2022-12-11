@@ -18,6 +18,8 @@ def objective(list_of_recipes:list[recipe], weights:list[float]): # weights = [c
         protein_sum += list_of_recipes[i].protein
         
     f_x = (weights[0]*calories_sum + weights[1]*fat_sum + weights[2]*carb_sum + weights[3]*protein_sum)/sum(weights)
+    
+    return f_x
 
         
 if __name__ == "__main__":
