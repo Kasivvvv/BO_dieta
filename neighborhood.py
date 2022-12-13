@@ -1,4 +1,3 @@
-import solution
 import numpy as np
 import random
 from classes import recipe

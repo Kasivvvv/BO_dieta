@@ -21,3 +21,9 @@ spwradzanie ograniczeń (pinądze, składniki odżywcze)
 baze danych > martyna 
 
 Do 11.12.2022 (niedzela) wrzucamy swój kod
+
+
+
+
+zaimplementowa ten algorytm > kasia
+GUI > martyna

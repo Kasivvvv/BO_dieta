@@ -27,3 +27,15 @@ def is_protein_ok(recipes: list[recipe], protein_min: int, protein_max: int):
         return False
     else:
         return True
+
+def acceptabiliy(solution : list[recipe]):
+    is_solution_acceptable = 0
+    calories = is_calories_ok(solution, 15000, 16000)
+    fat = is_fat_ok(solution, 7*135, 7*140)
+    carbs = is_carbs_ok(solution, 7*70,7*80)
+    protein = is_protein_ok(solution,70*7,80*7)
+    
+    if calories and fat and carbs and protein:
+        is_solution_acceptable = 1
+
+    return is_solution_acceptable
