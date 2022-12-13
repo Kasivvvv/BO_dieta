@@ -1,5 +1,5 @@
 mamy swoje rozwiązanie i dane liczymy funckj celu, 
-ograniamy dopuszcalność (nwm co)
+ograniamy dopuszcalność
 sposób towrzenia nowego rozwiąznia 
 generowanie sąsiedzta
 spwradzanie ograniczeń 

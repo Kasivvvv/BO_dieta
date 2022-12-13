@@ -1,6 +1,7 @@
 import numpy as np
 import random
 from classes import product, recipe, storage
+import neighborhood
 
 RECIPE_DATABASE_LEN = 26
 PRODUCT_DATABASE_LEN = 26
@@ -37,3 +38,6 @@ if __name__ == "__main__":
                                       random.randint(10, 40))
         
         recipe_database.append(recipe_to_add)
+
+
+neighborhood.neighborhood(recipe_database[0], 1800*7,70*7,175*7,70*7)
