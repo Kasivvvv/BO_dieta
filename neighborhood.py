@@ -14,12 +14,11 @@ def neighborhood(current_solution : list[recipe], amount:int = 100):
             recipes = random.sample(main.recipe_database,21 - index_of_recipe)
             new_neighbor = neighbor + recipes
             
-            print(len(new_neighbor))
             if limits.acceptabiliy(new_neighbor):
                 break
             else:
                 new_neighbor = []
 
         neighborhood.append(new_neighbor)
-        print(len(neighborhood))
+       
     return neighborhood
