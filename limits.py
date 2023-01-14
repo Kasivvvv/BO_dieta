@@ -1,5 +1,18 @@
-from neighborhood import sum_of_nutritious
 from classes import recipe
+
+def sum_of_nutritious(recipes:list[recipe]):
+    calories = 0
+    fat = 0
+    carbs = 0
+    protein = 0
+   
+    for i in range(len(recipes)):
+        calories += recipes[i].calories
+        fat += recipes[i].fat
+        carbs += recipes[i].carbs
+        protein += recipes[i].protein
+
+    return calories, fat, carbs, protein
 
 def is_calories_ok(recipes: list[recipe], cal_min: int, cal_max: int):
     cal_sum, fat_sum, carbs_sum, protein_sum = sum_of_nutritious(recipes)
@@ -7,6 +20,7 @@ def is_calories_ok(recipes: list[recipe], cal_min: int, cal_max: int):
         return False
     else:
         return True
+
 def is_fat_ok(recipes: list[recipe], fat_min: int, fat_max: int):
     cal_sum, fat_sum, carbs_sum, protein_sum = sum_of_nutritious(recipes)
     if fat_sum < fat_min or fat_sum > fat_max:
@@ -30,10 +44,10 @@ def is_protein_ok(recipes: list[recipe], protein_min: int, protein_max: int):
 
 def acceptabiliy(solution : list[recipe]):
     is_solution_acceptable = 0
-    calories = is_calories_ok(solution, 15000, 16000)
-    fat = is_fat_ok(solution, 7*135, 7*140)
-    carbs = is_carbs_ok(solution, 7*70,7*80)
-    protein = is_protein_ok(solution,70*7,80*7)
+    calories = is_calories_ok(solution, 6000, 15000)
+    fat = is_fat_ok(solution, 420, 1900)
+    carbs = is_carbs_ok(solution, 30*21,21*60)
+    protein = is_protein_ok(solution,10*21,40*21)
     
     if calories and fat and carbs and protein:
         is_solution_acceptable = 1
