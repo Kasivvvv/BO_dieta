@@ -1,146 +1,146 @@
-recipe_name
-Jamaican Jerk Chicken
-Pasta Salad
-Lasagna
-Hearty Pancakes
-Summer Garden Couscous Salad
-Squash Corn Chowder
-White beans tomatoes and spinach
-Spaghetti
-Scones
-Pizza
-Stir-Fry
-Rustic Italian Tortellini Soup
-Swedish Meatballs
-Barley Beef Skillet
-Southwest Beef & Rice Skillet
-Glazed Pork Chops with Corn Bread Dressing
-Fried Rice
-Zesty Sausage & Beans
-Prosciutto Pasta Toss
-Cashew Chicken with Noodles
-Herb Chicken with Honey Butter
-French Toast
-Swedish Pancakes
-Baked Cheddar Eggs & Potatoes
-Baked Mostaccioli
-Ravioli with Snap Peas
-Cloverleaf Rolls
-Greek Yogurt and Honey Blueberry Muffins
-Whole Grain Waffles
-Lemon Bars
-Qahaq Cookies
-Blondies with Nutella
-Hot Chocolate
-Chocolate Mousse
-S'mores Cookie Bars
-Orange Chicken
-Tostadas
-Black Bean Stuffed Sweet Potatoes
-Asian Shredded Beef
-Capellini with sausage spinach and jalapeno
-Crispy Chicken with Kale
-Roast Chicken Grain Bowl
-Chicken thighs with barley and peas
-Rice noodles with meatballs and bok choy
-Paprika Pork with Roasted Potatoes and Dill Cream
-Chicken cutlets with carrot and kale salad
-Gnocchi and sweet potatoes
-Shepherd's Pie
-Garlic Parmesan Chicken
-Turkey Pot Pie
-Balsamic Bacon Brussels Sprouts
-Lemon Red Potatoes
-Potato and Corn Chowder
-Thai Chicken
-Italian Fagoli Vegetable Soup
-Blueberry Pie
-Chocolate Pudding
-Browned Butter Beets
-Turkey Soup with Homemade Noodles
-Home fries
-Chocolate Raspberry Torte
-Golden Latte
-Fig Shake
-Lentil Soup
-Buckwheat Tabboulah
-Lentil Rice Bowls with Egg
-Italian Vegetable Lentil Soup
-One Pot Chicken & Potatoes
-Sweet Korean Lentils
-Buckwheat Beetroot Salad
-New Potato Lentil Salad
-Ham & Potato Soup
-Lemon Dill Potatoes
-BBQ Lentils
-Healthy Buckwheat Soup
-Buckwheat Chicken Pilaf
-Vegetable Noodle Soup
-Bacon and Honey Potato Salad
-Pretzel Sticks
-Golden French Lentil Soup
-Lentil Shepherd's Pie
-Honey Lime Chicken
-Lentil Curry
-Dutch Oven Bread
-Potato Apple Roast
-Baking Powder Biscuits
-Sugar Cookies
-Potato Curry
-Bucatini all'Amatriciana
-Brioche Chocolate Rolls
-Naan
-Lemon Poppy Seed Scones
-Balsamic Dijon Root Vegetables
-Best Baked Chicken Legs
-Spanish Lentil Soup
-Chocolate Chip Irish Soda Bread
-Malteese Gilatti
-Buckwheat Carrot and Onion
-Sweet Potatoes with Yogurt and Chickpeas
-Spanish Chickpeas
-Lemon Fettuchini
-Chickpea Masala
-Chickpea Broccoli Pesto
-Thai Veggie Soup
-Buttery Herb Chicken
-Rosemary Parsnips
-Balsamic Potatoes and Asparagus
-Quinoa Brussels Sweet Potato Salad
-Thai Peanut Cabbage Quinoa
-Lemon Garlic Asparagus with Orzo
-Moroccan Sweet Potato Lentil Stew
-Chia Crusted Salmon
-Pinto Beans and Tomatillo Cilantro Lime Rice
-Thai Squash Soup
-Roasted Carrot & Peanut Sauce
-Majoram White Wine Chicken
-Marjoram Carrots
-Soy Mustard Salmon
-Chive Butter Radishes
-Mango Chutney
-Vegetarian Chili
-Sweet Potato Breakfast Burritos
-Roasted Sweet Potato Lentil Salad
-Cornbread
-Brussel Honey Lentil Quinoa
-Lentil Sweet Potato Curry
-Gnocci and white beans
-Pad Thai
-Kung Pao Chicken
-Mediterranean Tuna Steaks
-Spicy Black Bean Nachos
-Tomato Basil Soup
-Chewy Chocolate Chip COokies
-Quinoa Peanut Kale Curry
-Sweet Potato Lentil Curry with Pickled Onion
-Sardine Mediterranean Pasta
-Prosciutto apple flatbread pizza
-Dill Cucumber Salmon
-Vegetable Couscous
-Talapia Tacos
-Roasted Mackerel
-Lentil Salsa Soup
-Pesto Tomato Penne
-Black Bean Soup
-Balsamic Pork Chops
+recipe_name,ingredients,calories,fat,carbs,protein 
+Jamaican Jerk Chicken,"[<classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE5520>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD88FE69A0>]",537,29,34,32
+Pasta Salad,"[<classes.product object at 0x000001DD88FE50D0>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FE5340>, <classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FC4400>]",470,83,38,25
+Lasagna,"[<classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE57C0>]",636,56,55,36
+Hearty Pancakes,"[<classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD851DBCD0>, <classes.product object at 0x000001DD88FE6A60>, <classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE62E0>]",599,85,37,11
+Summer Garden Couscous Salad,"[<classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE5400>]",695,59,51,19
+Squash Corn Chowder,"[<classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FE5700>, <classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FE6220>]",594,28,49,32
+White beans tomatoes and spinach,"[<classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FC4AC0>, <classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FE5E20>, <classes.product object at 0x000001DD88FC4400>]",348,62,33,29
+Spaghetti,"[<classes.product object at 0x000001DD88FE6340>, <classes.product object at 0x000001DD88FC4C40>]",606,71,36,25
+Scones,"[<classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FE6220>]",645,20,30,15
+Pizza,"[<classes.product object at 0x000001DD88FE6520>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FE5E80>, <classes.product object at 0x000001DD88FE65E0>, <classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FC45B0>]",506,45,49,12
+Stir-Fry,"[<classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FE62E0>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FC4520>, <classes.product object at 0x000001DD88FC4D00>, <classes.product object at 0x000001DD88FC4E20>]",564,20,55,18
+Rustic Italian Tortellini Soup,"[<classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FC48B0>]",310,61,45,37
+Swedish Meatballs,"[<classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE6520>, <classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE6280>]",538,34,43,32
+Barley Beef Skillet,"[<classes.product object at 0x000001DD88FC49A0>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE5E80>, <classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE5640>, <classes.product object at 0x000001DD88FE6160>]",678,77,33,14
+Southwest Beef & Rice Skillet,"[<classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE65E0>]",466,57,48,13
+Glazed Pork Chops with Corn Bread Dressing,"[<classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FC4730>, <classes.product object at 0x000001DD88FE6A60>, <classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE5940>]",644,80,40,18
+Fried Rice,"[<classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD875FF1C0>, <classes.product object at 0x000001DD88FC44C0>, <classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FC4E20>]",678,80,35,29
+Zesty Sausage & Beans,"[<classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FC4EE0>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE5580>]",641,42,45,23
+Prosciutto Pasta Toss,"[<classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FC4610>]",442,69,58,18
+Cashew Chicken with Noodles,"[<classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FE5880>]",525,53,35,38
+Herb Chicken with Honey Butter,[<classes.product object at 0x000001DD875FF1C0>],675,68,41,35
+French Toast,"[<classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FE6A00>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FE6220>]",605,88,35,26
+Swedish Pancakes,"[<classes.product object at 0x000001DD88FC4520>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE5340>, <classes.product object at 0x000001DD88FC4D60>, <classes.product object at 0x000001DD88FE5460>]",548,81,40,18
+Baked Cheddar Eggs & Potatoes,"[<classes.product object at 0x000001DD88FE5E80>, <classes.product object at 0x000001DD88FE5C40>, <classes.product object at 0x000001DD88FE5E80>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE6820>]",394,55,56,15
+Baked Mostaccioli,"[<classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FC42E0>, <classes.product object at 0x000001DD875FF1C0>]",336,76,55,37
+Ravioli with Snap Peas,"[<classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE5640>, <classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE62E0>, <classes.product object at 0x000001DD88FE6580>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE56A0>]",398,80,49,32
+Cloverleaf Rolls,"[<classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FE6B80>, <classes.product object at 0x000001DD88FE5E20>]",337,89,58,19
+Greek Yogurt and Honey Blueberry Muffins,"[<classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE6280>, <classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FC4B20>]",531,79,30,38
+Whole Grain Waffles,"[<classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD851DBCD0>, <classes.product object at 0x000001DD88FE5460>]",371,40,34,17
+Lemon Bars,"[<classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE65E0>]",609,56,40,24
+Qahaq Cookies,"[<classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE6280>, <classes.product object at 0x000001DD88FE6AC0>]",634,21,41,25
+Blondies with Nutella,"[<classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FC42E0>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD875FF1C0>]",591,85,59,33
+Hot Chocolate,"[<classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD875FF1C0>, <classes.product object at 0x000001DD88FE6A00>, <classes.product object at 0x000001DD88FE6940>, <classes.product object at 0x000001DD88FE5AC0>]",324,23,36,19
+Chocolate Mousse,"[<classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FC4D60>]",592,47,34,37
+S'mores Cookie Bars,"[<classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FE51C0>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE6820>, <classes.product object at 0x000001DD88FE5E20>]",449,50,36,30
+Orange Chicken,[<classes.product object at 0x000001DD88FC4AC0>],590,85,52,16
+Tostadas,"[<classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FC45B0>]",330,50,50,32
+Black Bean Stuffed Sweet Potatoes,"[<classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE6A60>, <classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FC4730>, <classes.product object at 0x000001DD88FE5B20>]",642,55,52,21
+Asian Shredded Beef,"[<classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE6B80>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE6B80>, <classes.product object at 0x000001DD88FE5940>]",687,23,53,38
+Capellini with sausage spinach and jalapeno,"[<classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE6640>, <classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FE6520>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE5340>]",542,55,41,23
+Crispy Chicken with Kale,"[<classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE5EE0>]",588,33,58,18
+Roast Chicken Grain Bowl,"[<classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE5340>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE5E20>]",625,31,34,38
+Chicken thighs with barley and peas,"[<classes.product object at 0x000001DD88FC4EE0>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE6640>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FE5940>]",675,20,31,20
+Rice noodles with meatballs and bok choy,"[<classes.product object at 0x000001DD88FE5A60>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD851DBCD0>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FE5AC0>]",491,20,48,17
+Paprika Pork with Roasted Potatoes and Dill Cream,"[<classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FC4AC0>, <classes.product object at 0x000001DD88FE53A0>]",380,52,33,22
+Chicken cutlets with carrot and kale salad,"[<classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE5520>, <classes.product object at 0x000001DD88FE6A00>]",595,57,39,31
+Gnocchi and sweet potatoes,"[<classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FE5340>]",508,53,31,27
+Shepherd's Pie,"[<classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FE5D00>]",409,23,48,39
+Garlic Parmesan Chicken,"[<classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FC44C0>, <classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE5760>]",382,35,38,36
+Turkey Pot Pie,"[<classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FC44C0>]",463,22,31,25
+Balsamic Bacon Brussels Sprouts,"[<classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FC4790>]",554,34,43,25
+Lemon Red Potatoes,"[<classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE50D0>, <classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE57C0>]",409,27,52,15
+Potato and Corn Chowder,"[<classes.product object at 0x000001DD88FE6580>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE6B20>]",687,37,35,35
+Thai Chicken,"[<classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE6340>, <classes.product object at 0x000001DD88FC4F40>]",341,47,37,33
+Italian Fagoli Vegetable Soup,"[<classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE5E80>, <classes.product object at 0x000001DD88FE6280>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE58E0>, <classes.product object at 0x000001DD88FE5AC0>]",641,77,34,34
+Blueberry Pie,"[<classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE5760>]",607,64,59,36
+Chocolate Pudding,[<classes.product object at 0x000001DD88FE5400>],539,77,53,20
+Browned Butter Beets,"[<classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FC49A0>, <classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FE6A60>, <classes.product object at 0x000001DD88FC49A0>]",515,76,42,37
+Turkey Soup with Homemade Noodles,"[<classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE6520>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FC44C0>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE5E20>]",459,35,35,12
+Home fries,"[<classes.product object at 0x000001DD88FE58E0>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE5700>]",485,29,34,12
+Chocolate Raspberry Torte,"[<classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FC4520>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FC4730>]",495,62,56,15
+Golden Latte,"[<classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE5220>, <classes.product object at 0x000001DD88FE5EE0>]",536,77,47,24
+Fig Shake,"[<classes.product object at 0x000001DD88FE5A60>, <classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FC4730>, <classes.product object at 0x000001DD88FC44C0>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FE6580>]",590,88,57,39
+Lentil Soup,"[<classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FE5AC0>]",586,79,43,22
+Buckwheat Tabboulah,"[<classes.product object at 0x000001DD88FE5E20>, <classes.product object at 0x000001DD88FC4C40>, <classes.product object at 0x000001DD88FC4D60>]",633,56,46,33
+Lentil Rice Bowls with Egg,"[<classes.product object at 0x000001DD88FE5340>, <classes.product object at 0x000001DD88FE5220>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE5400>]",404,42,43,11
+Italian Vegetable Lentil Soup,"[<classes.product object at 0x000001DD88FC42E0>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FE5E20>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE6520>]",328,38,53,32
+One Pot Chicken & Potatoes,"[<classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FC44C0>, <classes.product object at 0x000001DD88FC4D60>, <classes.product object at 0x000001DD88FC4AC0>]",514,65,48,22
+Sweet Korean Lentils,[<classes.product object at 0x000001DD88FC4A60>],623,75,35,16
+Buckwheat Beetroot Salad,"[<classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FC4C40>, <classes.product object at 0x000001DD88FE5220>, <classes.product object at 0x000001DD88FE50A0>, <classes.product object at 0x000001DD88FC4D00>]",544,31,54,17
+New Potato Lentil Salad,"[<classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FE5C40>, <classes.product object at 0x000001DD88FC4D60>]",517,42,32,17
+Ham & Potato Soup,"[<classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE54C0>]",599,83,32,15
+Lemon Dill Potatoes,"[<classes.product object at 0x000001DD851DBCD0>, <classes.product object at 0x000001DD88FE6A60>]",613,66,58,28
+BBQ Lentils,"[<classes.product object at 0x000001DD88FC49A0>, <classes.product object at 0x000001DD88FE5B80>]",491,48,51,32
+Healthy Buckwheat Soup,"[<classes.product object at 0x000001DD88FE5220>, <classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FE50D0>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FC42E0>, <classes.product object at 0x000001DD88FE50D0>]",686,64,55,12
+Buckwheat Chicken Pilaf,"[<classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FE58E0>]",624,64,55,29
+Vegetable Noodle Soup,"[<classes.product object at 0x000001DD88FE6340>, <classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FE5A60>, <classes.product object at 0x000001DD851DBCD0>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE57C0>]",550,58,47,18
+Bacon and Honey Potato Salad,[<classes.product object at 0x000001DD88FE5D00>],511,78,59,13
+Pretzel Sticks,"[<classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FE64C0>, <classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FE50A0>]",398,74,38,18
+Golden French Lentil Soup,"[<classes.product object at 0x000001DD88FE6280>, <classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE5F40>]",358,49,33,27
+Lentil Shepherd's Pie,"[<classes.product object at 0x000001DD88FC48B0>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FC47C0>]",494,70,53,38
+Honey Lime Chicken,"[<classes.product object at 0x000001DD88FE6640>, <classes.product object at 0x000001DD88FE5940>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE5D00>]",545,29,44,32
+Lentil Curry,"[<classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE62E0>, <classes.product object at 0x000001DD88FE66A0>]",481,40,34,19
+Dutch Oven Bread,"[<classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FE53A0>]",435,67,55,37
+Potato Apple Roast,"[<classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FE6160>, <classes.product object at 0x000001DD88FE50A0>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD875FF1C0>, <classes.product object at 0x000001DD88FC4B80>]",383,75,30,23
+Baking Powder Biscuits,"[<classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD88FE5C40>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE5AC0>]",562,36,30,13
+Sugar Cookies,"[<classes.product object at 0x000001DD88FE55E0>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE5160>]",524,21,36,34
+Potato Curry,[<classes.product object at 0x000001DD88FE51C0>],403,71,30,29
+Bucatini all'Amatriciana,"[<classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FC4C40>]",395,54,50,19
+Brioche Chocolate Rolls,"[<classes.product object at 0x000001DD88FE5E20>, <classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE5AC0>]",595,54,57,12
+Naan,"[<classes.product object at 0x000001DD88FE5AC0>, <classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FE50D0>]",653,60,40,12
+Lemon Poppy Seed Scones,"[<classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FC49A0>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE6A60>]",409,69,46,15
+Balsamic Dijon Root Vegetables,"[<classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FC4D00>, <classes.product object at 0x000001DD88FE5FA0>, <classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE5820>]",573,82,50,30
+Best Baked Chicken Legs,"[<classes.product object at 0x000001DD88FC4D60>, <classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD88FE6340>, <classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE5940>]",396,48,45,12
+Spanish Lentil Soup,"[<classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE6940>, <classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE6820>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE59A0>]",651,53,58,31
+Chocolate Chip Irish Soda Bread,"[<classes.product object at 0x000001DD88FE50A0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FC4850>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE50D0>, <classes.product object at 0x000001DD88FC4BE0>]",407,81,54,19
+Malteese Gilatti,[<classes.product object at 0x000001DD88FC4B80>],559,44,39,11
+Buckwheat Carrot and Onion,"[<classes.product object at 0x000001DD88FE6B80>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD88FE57C0>]",663,88,32,23
+Sweet Potatoes with Yogurt and Chickpeas,"[<classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FC4B20>]",310,75,36,20
+Spanish Chickpeas,"[<classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FC42E0>, <classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FC4A60>]",419,40,48,28
+Lemon Fettuchini,"[<classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FC47C0>, <classes.product object at 0x000001DD88FE6880>, <classes.product object at 0x000001DD88FE5220>]",313,81,40,25
+Chickpea Masala,"[<classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FE5640>]",494,62,40,28
+Chickpea Broccoli Pesto,"[<classes.product object at 0x000001DD88FE65E0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FC49A0>, <classes.product object at 0x000001DD88FE5400>]",680,79,41,29
+Thai Veggie Soup,"[<classes.product object at 0x000001DD88FC4BE0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FE5640>, <classes.product object at 0x000001DD88FE52E0>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FE64C0>, <classes.product object at 0x000001DD88FC4DC0>]",488,84,48,15
+Buttery Herb Chicken,"[<classes.product object at 0x000001DD88FE64C0>, <classes.product object at 0x000001DD88FE6520>, <classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE51C0>, <classes.product object at 0x000001DD88FC4EE0>]",356,49,34,32
+Rosemary Parsnips,"[<classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD88FC4B20>, <classes.product object at 0x000001DD88FE55E0>]",403,89,41,33
+Balsamic Potatoes and Asparagus,"[<classes.product object at 0x000001DD88FC4DC0>, <classes.product object at 0x000001DD88FE5220>, <classes.product object at 0x000001DD88FC4520>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD88FC4E20>, <classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FC4A00>]",608,44,59,11
+Quinoa Brussels Sweet Potato Salad,"[<classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE66A0>, <classes.product object at 0x000001DD88FE50A0>, <classes.product object at 0x000001DD88FC4EE0>, <classes.product object at 0x000001DD88FC4C40>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE5520>]",465,60,54,28
+Thai Peanut Cabbage Quinoa,"[<classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FC4BE0>, <classes.product object at 0x000001DD88FE51C0>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD851DBEE0>]",366,43,57,17
+Lemon Garlic Asparagus with Orzo,[<classes.product object at 0x000001DD88FE54C0>],536,54,54,25
+Moroccan Sweet Potato Lentil Stew,"[<classes.product object at 0x000001DD88FC4BE0>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FC4D60>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FC4400>, <classes.product object at 0x000001DD851DBCD0>]",559,79,41,20
+Chia Crusted Salmon,"[<classes.product object at 0x000001DD88FE5A60>, <classes.product object at 0x000001DD88FC4730>, <classes.product object at 0x000001DD88FC4D60>]",508,51,46,12
+Pinto Beans and Tomatillo Cilantro Lime Rice,"[<classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FE6820>, <classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FE6220>, <classes.product object at 0x000001DD88FE51C0>]",505,30,30,18
+Thai Squash Soup,"[<classes.product object at 0x000001DD88FE67C0>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FE6700>]",635,20,51,33
+Roasted Carrot & Peanut Sauce,"[<classes.product object at 0x000001DD88FE57C0>, <classes.product object at 0x000001DD88FC4400>]",413,89,33,24
+Majoram White Wine Chicken,"[<classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE6580>, <classes.product object at 0x000001DD88FC4F40>, <classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE6760>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE62E0>]",607,83,57,29
+Marjoram Carrots,"[<classes.product object at 0x000001DD88FE62E0>, <classes.product object at 0x000001DD88FE5940>]",389,24,41,18
+Soy Mustard Salmon,"[<classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FE5580>, <classes.product object at 0x000001DD88FC45B0>, <classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FC48B0>]",599,82,51,22
+Chive Butter Radishes,"[<classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE6AC0>, <classes.product object at 0x000001DD88FE68E0>, <classes.product object at 0x000001DD88FC4F40>]",577,53,51,25
+Mango Chutney,"[<classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE65E0>, <classes.product object at 0x000001DD88F91DC0>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE5400>, <classes.product object at 0x000001DD88FE5820>, <classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD851DBEE0>]",364,54,58,17
+Vegetarian Chili,"[<classes.product object at 0x000001DD88FC4760>, <classes.product object at 0x000001DD88FC4A60>]",699,69,36,14
+Sweet Potato Breakfast Burritos,"[<classes.product object at 0x000001DD88FE5B80>, <classes.product object at 0x000001DD88FE5EE0>, <classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FE53A0>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE5CA0>]",477,80,53,35
+Roasted Sweet Potato Lentil Salad,"[<classes.product object at 0x000001DD88FC4D60>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FC4670>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FE5DC0>]",569,32,55,34
+Cornbread,"[<classes.product object at 0x000001DD88FC4EE0>, <classes.product object at 0x000001DD88FE6820>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FE5BE0>, <classes.product object at 0x000001DD88FE5E80>]",627,24,38,13
+Brussel Honey Lentil Quinoa,"[<classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FC4B80>, <classes.product object at 0x000001DD88FE65E0>, <classes.product object at 0x000001DD88FE5FA0>, <classes.product object at 0x000001DD88FC4CA0>, <classes.product object at 0x000001DD88FE5940>, <classes.product object at 0x000001DD88FE6700>]",302,86,49,38
+Lentil Sweet Potato Curry,"[<classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FE6460>, <classes.product object at 0x000001DD88FE6940>]",489,62,59,20
+Gnocci and white beans,[<classes.product object at 0x000001DD88FE5580>],337,20,38,33
+Pad Thai,"[<classes.product object at 0x000001DD88FC4D00>, <classes.product object at 0x000001DD88FE5700>, <classes.product object at 0x000001DD88FE69A0>, <classes.product object at 0x000001DD88FE58E0>]",687,63,56,13
+Kung Pao Chicken,[<classes.product object at 0x000001DD88FE6460>],527,81,53,28
+Mediterranean Tuna Steaks,"[<classes.product object at 0x000001DD88FE5D00>, <classes.product object at 0x000001DD88FC4610>, <classes.product object at 0x000001DD875FF1C0>, <classes.product object at 0x000001DD88FE5760>]",393,46,56,19
+Spicy Black Bean Nachos,"[<classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FC4520>, <classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FE5E20>, <classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FE51C0>]",560,68,58,10
+Tomato Basil Soup,[<classes.product object at 0x000001DD88FC4C40>],386,28,33,22
+Chewy Chocolate Chip COokies,"[<classes.product object at 0x000001DD88FC4A00>, <classes.product object at 0x000001DD88FC4790>, <classes.product object at 0x000001DD88FC4A60>, <classes.product object at 0x000001DD88FE5F40>, <classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE6A60>]",519,64,34,11
+Quinoa Peanut Kale Curry,"[<classes.product object at 0x000001DD88FE59A0>, <classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FE5AC0>]",410,48,47,15
+Sweet Potato Lentil Curry with Pickled Onion,"[<classes.product object at 0x000001DD88FE50D0>, <classes.product object at 0x000001DD88FC4FA0>, <classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FC4D00>, <classes.product object at 0x000001DD88FE5A00>, <classes.product object at 0x000001DD88FE5CA0>, <classes.product object at 0x000001DD88FE6280>, <classes.product object at 0x000001DD88FC4520>]",569,70,35,14
+Sardine Mediterranean Pasta,"[<classes.product object at 0x000001DD88FE5520>, <classes.product object at 0x000001DD88FE62E0>, <classes.product object at 0x000001DD88FE6940>, <classes.product object at 0x000001DD88FE54C0>, <classes.product object at 0x000001DD88FE50A0>, <classes.product object at 0x000001DD88FE5B20>]",351,69,32,10
+Prosciutto apple flatbread pizza,"[<classes.product object at 0x000001DD88FE5880>, <classes.product object at 0x000001DD88FE6340>, <classes.product object at 0x000001DD88FE6700>, <classes.product object at 0x000001DD88FE5A60>, <classes.product object at 0x000001DD88FE5DC0>, <classes.product object at 0x000001DD88FE6580>, <classes.product object at 0x000001DD88FE59A0>]",482,35,55,21
+Dill Cucumber Salmon,[<classes.product object at 0x000001DD88FE6640>],567,57,30,35
+Vegetable Couscous,"[<classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FC4EE0>]",462,46,34,21
+Talapia Tacos,"[<classes.product object at 0x000001DD88FE65E0>, <classes.product object at 0x000001DD88FE5FA0>, <classes.product object at 0x000001DD88FE61C0>, <classes.product object at 0x000001DD88FE63A0>, <classes.product object at 0x000001DD88FE56A0>, <classes.product object at 0x000001DD851DBEE0>, <classes.product object at 0x000001DD88FE6280>]",643,29,37,36
+Roasted Mackerel,"[<classes.product object at 0x000001DD88FE55E0>, <classes.product object at 0x000001DD88FE5640>, <classes.product object at 0x000001DD88FE6B20>, <classes.product object at 0x000001DD88FE5280>, <classes.product object at 0x000001DD88FE5D60>, <classes.product object at 0x000001DD88FC4E80>, <classes.product object at 0x000001DD88FE5D00>]",625,62,47,30
+Lentil Salsa Soup,"[<classes.product object at 0x000001DD88FE5100>, <classes.product object at 0x000001DD88FE58E0>]",557,47,34,18
+Pesto Tomato Penne,"[<classes.product object at 0x000001DD88FE6400>, <classes.product object at 0x000001DD88FE5160>, <classes.product object at 0x000001DD88FE5340>]",361,47,41,15
+Black Bean Soup,[<classes.product object at 0x000001DD88FE6B20>],644,29,51,15
+Balsamic Pork Chops,"[<classes.product object at 0x000001DD88FE5460>, <classes.product object at 0x000001DD88FE5760>, <classes.product object at 0x000001DD88FC4EE0>, <classes.product object at 0x000001DD88FC4AC0>]",613,35,43,27

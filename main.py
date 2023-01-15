@@ -8,7 +8,7 @@ import pandas as pd
 RECIPE_DATABASE_LEN = 26
 PRODUCT_DATABASE_LEN = 26
 recipe_database_csv = pd.read_csv('C:/Users/kasia/OneDrive/Dokumenty/Kasia/Studia/BO/BO_dieta/recipe_database.csv')
-
+product_database_csv = pd.read_csv('C:/Users/kasia/OneDrive/Dokumenty/Kasia/Studia/BO/BO_dieta/product_database.csv')
 
 def objective(list_of_recipes:list[recipe], weights:list[float]): # weights = [calories_weight, fat_weight, carb_weight, protein_weight]
     calories_sum= 0
@@ -31,16 +31,20 @@ def objective(list_of_recipes:list[recipe], weights:list[float]): # weights = [c
 product_database = []
 recipe_database = []
 
-for i in range(PRODUCT_DATABASE_LEN):
-    name = chr(97+i)
-    product_database.append(product(name, random.randint(1, 100)))
-
+for index,row in product_database_csv.iterrows():
+    name = row['product_name']
+    price = row['price']
+    product_database.append(product(name, price))
 
 for index,row in recipe_database_csv.iterrows():
     name = row['recipe_name']
-    recipe_to_add = recipe(name, random.choices(product_database, k=random.randint(1, 9)),
-                                    random.randint(300, 700), random.randint(20, 90), random.randint(30, 60),
-                                    random.randint(10, 40))
+    ingredients = row['ingredients']
+    calories = row['calories']
+    fat = row['fat']
+    carbs = row['carbs']
+    protein = row['protein ']
+    recipe_to_add = recipe(name, ingredients,calories,fat,carbs,protein)
     
     recipe_database.append(recipe_to_add)
+print(recipe_database)
 
