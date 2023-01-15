@@ -3,9 +3,12 @@ import random
 from classes import product, recipe, storage
 import neighborhood
 import solution
+import pandas as pd
 
 RECIPE_DATABASE_LEN = 26
 PRODUCT_DATABASE_LEN = 26
+recipe_database_csv = pd.read_csv('C:/Users/kasia/OneDrive/Dokumenty/Kasia/Studia/BO/BO_dieta/recipe_database.csv')
+print(recipe_database_csv['Title'])
 
 def objective(list_of_recipes:list[recipe], weights:list[float]): # weights = [calories_weight, fat_weight, carb_weight, protein_weight]
     calories_sum= 0
@@ -31,11 +34,13 @@ if __name__ == "__main__":
     for i in range(PRODUCT_DATABASE_LEN):
         name = chr(97+i)
         product_database.append(product(name, random.randint(1, 100)))
-        
-    for i in range(RECIPE_DATABASE_LEN):
-        name = name = chr(65+i)
+
+
+    for index,row in recipe_database_csv.iterrows():
+        name = row['name']
         recipe_to_add = recipe(name, random.choices(product_database, k=random.randint(1, 9)),
                                         random.randint(300, 700), random.randint(20, 90), random.randint(30, 60),
                                         random.randint(10, 40))
         
         recipe_database.append(recipe_to_add)
+
