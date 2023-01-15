@@ -38,7 +38,7 @@ for index,row in product_database_csv.iterrows():
 
 for index,row in recipe_database_csv.iterrows():
     name = row['recipe_name']
-    ingredients = row['ingredients']
+    ingredients = random.choices(product_database, k=random.randint(1, 9))
     calories = row['calories']
     fat = row['fat']
     carbs = row['carbs']
@@ -46,5 +46,5 @@ for index,row in recipe_database_csv.iterrows():
     recipe_to_add = recipe(name, ingredients,calories,fat,carbs,protein)
     
     recipe_database.append(recipe_to_add)
-print(recipe_database)
+
 
