@@ -10,7 +10,6 @@ def products_from_recipes(recipies : list[recipe]):
     return list_of_products
 
 def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 500,  mu:int = 20, lam:int = 100):
-    best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
     # initial populationgi
@@ -19,6 +18,7 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
     solution = []
     products = []
     for i in range(weeks):
+        best, best_eval = neighborhood[0], 1e-10
         for epoch in range(N_iter):
             
         # evaluate fitness for the population
@@ -45,6 +45,7 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
                             break
         # replace population with children
             population = children
+
         products.append(products_from_recipes(best))
         solution.append([best, best_eval])
 
