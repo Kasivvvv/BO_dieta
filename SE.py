@@ -13,10 +13,11 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
     best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
-    # initial population
+    # initial populationgi
     population = neighborhood
     # perform the search
     solution = []
+    products = []
     for i in range(weeks):
         for epoch in range(N_iter):
             
@@ -32,7 +33,6 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
         # check if this parent is the best solution ever seen
                 if scores[i] > best_eval and limits.acceptabiliy(best):
                     best, best_eval = population[i], scores[i]
-                    print('%d, Best: f(%s) = %.5f' % (epoch, best, best_eval))
                     # create children for parent
                     child = []
                 for _ in range(n_children):
@@ -45,10 +45,10 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
                             break
         # replace population with children
             population = children
-            products = products_from_recipes(best)
+        products.append(products_from_recipes(best))
+        solution.append([best, best_eval])
 
-        solution.append([best,products, best_eval])
-    return solution
+    return solution, products
 
 def SE_children_and_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 10, mu:int = 20, lam:int = 100):
     best, best_eval = neighborhood[0], 1e-10
@@ -91,8 +91,9 @@ def SE_children_and_parents_rank(objective, neighborhood:list[list[recipe]], wei
             population = children
             products = products_from_recipes(best)
 
-        solution.append([best,products, best_eval])
-    return solution
+        products.append(products_from_recipes(best))
+        solution.append([best, best_eval])
+    return solution, products
 
 # TO DO: Dorobić ruletkę 
 def SE_children_and_parents_rulette(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 10,  mu:int = 20, lam:int = 100):
