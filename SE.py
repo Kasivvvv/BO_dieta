@@ -9,14 +9,14 @@ def products_from_recipes(recipies : list[recipe]):
         list_of_products.append(recipe.ingredients)
     return list_of_products
 
-def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float], N_iter : int  = 500,  mu:int = 20, lam:int = 100):
+def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 500,  mu:int = 20, lam:int = 100):
     best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
     # initial population
     population = neighborhood
     # perform the search
-    for epoch in range(N_iter):
+    for epoch in range(weeks*N_iter):
         
     # evaluate fitness for the population
         scores = [objective(c,weights) for c in population]
@@ -47,14 +47,14 @@ def SE_children_replace_parents_rank(objective, neighborhood:list[list[recipe]],
 
     return [best,products, best_eval]
 
-def SE_children_and_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float], N_iter : int  = 10, mu:int = 20, lam:int = 100):
+def SE_children_and_parents_rank(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 10, mu:int = 20, lam:int = 100):
     best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
     # initial population
     population = neighborhood
     # perform the search
-    for epoch in range(N_iter):
+    for epoch in range(weeks*N_iter):
     # evaluate fitness for the population
         scores = [objective(c,weights) for c in population]
     # rank scores in ascending order
@@ -88,14 +88,14 @@ def SE_children_and_parents_rank(objective, neighborhood:list[list[recipe]], wei
     return [best,products, best_eval]
 
 # TO DO: Dorobić ruletkę 
-def SE_children_and_parents_rulette(objective, neighborhood:list[list[recipe]], weights: list[float], N_iter : int  = 10,  mu:int = 20, lam:int = 100):
+def SE_children_and_parents_rulette(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 10,  mu:int = 20, lam:int = 100):
     best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
     # initial population
     population = neighborhood
     # perform the search
-    for epoch in range(N_iter):
+    for epoch in range(weeks*N_iter):
     # evaluate fitness for the population
         scores = [objective(c,weights) for c in population] #tutj se mamy wagi  [2,3,4,5]
         sum_scores = np.sum(scores)
@@ -129,14 +129,14 @@ def SE_children_and_parents_rulette(objective, neighborhood:list[list[recipe]], 
         products = products_from_recipes(best)
     return [best,products, best_eval]
 
-def SE_children_replace_parents_rulette(objective, neighborhood:list[list[recipe]], weights: list[float], N_iter : int  = 10, mu:int = 20, lam:int = 100):
+def SE_children_replace_parents_rulette(objective, neighborhood:list[list[recipe]], weights: list[float],weeks:int =1, N_iter : int  = 10, mu:int = 20, lam:int = 100):
     best, best_eval = neighborhood[0], 1e-10
     # calculate the number of children per parent
     n_children = int(lam / mu)
     # initial population
     population = neighborhood
     # perform the search
-    for epoch in range(N_iter):
+    for epoch in range(weeks*N_iter):
     # evaluate fitness for the population
         scores = [objective(c,weights) for c in population] #tutj se mamy wagi  [2,3,4,5]
         sum_scores = np.sum(scores)
