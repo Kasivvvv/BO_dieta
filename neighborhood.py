@@ -4,14 +4,14 @@ from classes import recipe
 import main
 import limits
 
-def neighborhood(current_solution : list[recipe], amount:int = 100):
+def neighborhood(current_solution : list[recipe],amount:int = 100,weeks:int = 1):
     neighborhood = []
 
     for _ in range(amount):
-        index_of_recipe = random.randint(0,20)
+        index_of_recipe = random.randint(0,20*weeks)
         neighbor = random.sample(current_solution,index_of_recipe)
         while 1:
-            recipes = random.sample(main.recipe_database,21 - index_of_recipe)
+            recipes = random.sample(main.recipe_database, - index_of_recipe)
             new_neighbor = neighbor + recipes
             
             if limits.acceptabiliy(new_neighbor):
