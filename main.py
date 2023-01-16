@@ -36,8 +36,16 @@ for index,row in product_database_csv.iterrows():
     price = row['price']
     product_database.append(product(name, price))
 
+ingredients_in = []
+for inex, row in recipe_database_csv.iterrows():
+    row_in = random.choices(product_database, k=random.randint(1, 9))
+    ingredients_in.append([[i.name, i.price, random.randint(1,20) ]for i in row_in])
+    
+
 for index,row in recipe_database_csv.iterrows():
-    name = row['recipe_name']
+    name = row['recipe_name'] 
+    ingredients = []
+    test = list(row['ingredients'].split(",")).pop(0)
     ingredients = random.choices(product_database, k=random.randint(1, 9))
     calories = row['calories']
     fat = row['fat']
@@ -46,5 +54,6 @@ for index,row in recipe_database_csv.iterrows():
     recipe_to_add = recipe(name, ingredients,calories,fat,carbs,protein)
     
     recipe_database.append(recipe_to_add)
+
 
 
